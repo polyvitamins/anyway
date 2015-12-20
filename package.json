@@ -1,0 +1,22 @@
+{
+  "name": "anyway",
+  "version": "1.0.0",
+  "description": "Returns data anyway",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyvitamins/anyway.git"
+  },
+  "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polyvitamins/anyway/issues"
+  },
+  "homepage": "https://github.com/polyvitamins/anyway#readme",
+  "devDependencies": {
+    "tap": "^2.3.3"
+  }
+}
